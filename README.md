@@ -6,7 +6,8 @@ I am a junior Frontend Developer and I am currently learning Node.js 🌱
 - 📫 How to reach me: svitlanaleniuk@gmail.com
 - ⚡ Fun fact: I am a passionate developer and love what I do
 
-### [LinkedIn](https://www.linkedin.com/in/svitlanaleniuk/)
+### Links
+[LinkedIn](https://www.linkedin.com/in/svitlanaleniuk/)
 
 
  
