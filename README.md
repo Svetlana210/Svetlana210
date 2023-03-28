@@ -5,9 +5,9 @@ I am a junior Frontend Developer and I am currently learning Node.js 🌱
 - 👯 I’m looking to collaborate on interesting projects with a team
 - 📫 How to reach me: svitlanaleniuk@gmail.com
 - ⚡ Fun fact: I am a passionate developer and love what I do
+<h3 align="center">[LinkedIn](https://www.linkedin.com/in/svitlanaleniuk/)🇺</h3>
 
 
-[LinkedIn](https://www.linkedin.com/in/svitlanaleniuk/)
 
 My stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
