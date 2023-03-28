@@ -1,16 +1,23 @@
 ### Hi there 👋
+I am a junior Frontend Developer and I am currently learning Node.js 🌱
 
-<!--
-**Svetlana210/Svetlana210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on some pet projects
+- 👯 I’m looking to collaborate on interesting projects with a team
+- 📫 How to reach me: svitlanaleniuk@gmail.com
+- ⚡ Fun fact: I am a passionate developer and love what I do
 
-Here are some ideas to get you started:
+###Links
+linkedin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###My stack
+JavaScript
+JavaScript
+React
+Node.js
+HTML5
+CSS3
+Sass
+MySQL
+Git
+GitHub
+Visual Studio Code
